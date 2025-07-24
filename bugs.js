@@ -1,5 +1,14 @@
 const Bugs = {
   Butterflies: {
+    蝶々さん: {
+      scientificName: "Papilio xuthus",
+      wingspan: "2 to 3 inches",
+      habitat: "Japan, in gardens and meadows",
+      diet: "Nectar from flowers",
+      conservationStatus: "Least Concern",
+      description:
+        "A common butterfly in Japan, known for its yellow and black coloration.",
+    },
     Monarch: {
       scientificName: "Danaus plexippus",
       wingspan: "3.5 to 4 inches",
