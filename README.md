@@ -1,6 +1,20 @@
 # git-conflict-in-class
 
+Capitalism
+Communism
+Fascism
+Imperialism
+Democracy
+Socialism
+Authoritarianism
+Monarchy
+Colonialism
+Totalitarianism
+Mercantilism
+Tyrany
+
 some stuff to conflict
+
 1. The quick brown fox jumps over the lazy dog.
 2. Blue skies and green grass make a perfect day.
 3. Coffee fuels code and creativity alike.
