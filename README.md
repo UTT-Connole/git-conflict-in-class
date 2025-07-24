@@ -1,4 +1,5 @@
 # git-conflict-in-class
+Good luck on the final!
 
 Capitalism
 Communism
@@ -26,5 +27,8 @@ some stuff to conflict
 9. Paper airplanes soar through the classroom.
 10. Lightning flashes, illuminating the night.
 
+I'M CREATING CONFLICT
 Brayden was here
 Brayden Rox! AGAIN!
+
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
