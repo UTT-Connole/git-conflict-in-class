@@ -1,5 +1,11 @@
 const Bugs = {
   Butterflies: {
+    mariposa: {
+      scientificName: "Danaus plexippus",
+      wingspan: "3.5 to 4 inches",
+      habitat: "North America, migrating to Mexico",
+      diet: "Milkweed",
+    },
     蝶々さん: {
       scientificName: "Papilio xuthus",
       wingspan: "2 to 3 inches",
