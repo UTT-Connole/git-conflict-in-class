@@ -13,3 +13,5 @@ some stuff to conflict
 10. Lightning flashes, illuminating the night.
 
 Brayden was here
+
+the plan was to not have a proper error response
