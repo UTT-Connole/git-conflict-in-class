@@ -33,4 +33,8 @@ I'M CREATING CONFLICT
 Brayden was here
 
 
+the plan was to not have a proper error response
+
+
 https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
