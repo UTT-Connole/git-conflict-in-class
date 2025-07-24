@@ -1,4 +1,5 @@
 # git-conflict-in-class
+
 some stuff to conflict
 1. The quick brown fox jumps over the lazy dog.
 2. Blue skies and green grass make a perfect day.
@@ -10,3 +11,5 @@ some stuff to conflict
 8. Mountains rise tall above the valley floor.
 9. Paper airplanes soar through the classroom.
 10. Lightning flashes, illuminating the night.
+
+Brayden was here
