@@ -1,5 +1,18 @@
 # git-conflict-in-class
 
+Capitalism
+Communism
+Fascism
+Imperialism
+Democracy
+Socialism
+Authoritarianism
+Monarchy
+Colonialism
+Totalitarianism
+Mercantilism
+Tyrany
+
 some stuff to conflict
 
 1. The quick brown fox jumps over the lazy dog.
@@ -14,3 +27,4 @@ some stuff to conflict
 10. Lightning flashes, illuminating the night.
 
 I'M CREATING CONFLICT
+Brayden was here
