@@ -31,4 +31,7 @@ I'M CREATING CONFLICT
 Brayden was here
 Brayden Rox! AGAIN!
 
+the plan was to not have a proper error response
+
 https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
