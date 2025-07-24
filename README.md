@@ -1,5 +1,8 @@
 # git-conflict-in-class
 
+
+Good luck on the final!
+
 Capitalism
 Communism
 Fascism
